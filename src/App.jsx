@@ -6,6 +6,7 @@ import Dashboard from './components/Dashboard';
 import Collection from './components/Collection';
 import PublicProfile from './components/PublicProfile';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
+import InstallButton from './components/InstallButton';
 
 function AppContent() {
   const { user, loading } = useAuth();
@@ -22,6 +23,7 @@ function AppContent() {
     <div className="pb-5 sm:pb-0 min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
       <Router>
         {user && <Navbar />}
+        {user && <InstallButton />}
         <Routes>
           <Route 
             path="/login" 
