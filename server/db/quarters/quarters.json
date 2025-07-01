@@ -1,0 +1,1331 @@
+[
+  {
+    "id": 1,
+    "year": 1999,
+    "series": "50 State Quarters",
+    "design": "Delaware",
+    "mintage": 774824000,
+    "description": "Caesar Rodney on horseback with the inscription 'The First State' and 'Caesar Rodney'",
+    "image_url": "/images/quarters/1999_DE_Proof.png",
+    "release_date":"1999-01-04"
+  },
+  {
+    "id": 2,
+    "year": 1999,
+    "series": "50 State Quarters",
+    "design": "Pennsylvania",
+    "mintage": 707332000,
+    "description": "Commonwealth statue, state outline, keystone, and the inscription 'Virtue, Liberty, Independence'",
+    "image_url": "/images/quarters/1999_PA_Proof.png",
+    "release_date":"1999-03-08"
+  },
+  {
+    "id": 3,
+    "year": 1999,
+    "series": "50 State Quarters",
+    "design": "New Jersey",
+    "mintage": 662228000,
+    "description": "Washington Crossing the Delaware with the inscription 'Crossroads of the Revolution'",
+    "image_url": "/images/quarters/330px-1999_NJ_Proof.png",
+    "release_date":"1999-05-17"
+  },
+  {
+    "id": 4,
+    "year": 1999,
+    "series": "50 State Quarters",
+    "design": "Georgia",
+    "mintage": 657880000,
+    "description": "Peach, live oak sprigs, and state outline with the inscription 'Wisdom, Justice, Moderation'",
+    "image_url": "/images/quarters/1999_GA_Proof.png",
+    "release_date":"1999-07-19"
+  },
+  {
+    "id": 5,
+    "year": 1999,
+    "series": "50 State Quarters",
+    "design": "Connecticut",
+    "mintage": 688744000,
+    "description": "Charter Oak with the inscription 'The Charter Oak'",
+    "image_url": "/images/quarters/330px-1999_CT_Proof.png",
+    "release_date":"1999-10-12"
+  },
+  {
+    "id": 6,
+    "year": 2000,
+    "series": "50 State Quarters",
+    "design": "Massachusetts",
+    "mintage": 1163784000,
+    "description": "Minuteman statue with state outline and the inscription 'The Bay State'",
+    "image_url": "/images/quarters/2000_MA_Proof.png",
+    "release_date":"2000-01-03"
+  },
+  {
+    "id": 7,
+    "year": 2000,
+    "series": "50 State Quarters",
+    "design": "Maryland",
+    "mintage": 1234732000,
+    "description": "Maryland Statehouse dome and white oak clusters with the inscription 'The Old Line State'",
+    "image_url": "/images/quarters/2000_MD_Proof.png",
+    "release_date":"2000-03-13"
+  },
+  {
+    "id": 8,
+    "year": 2000,
+    "series": "50 State Quarters",
+    "design": "South Carolina",
+    "mintage": 1308448000,
+    "description": "Palmetto tree, Carolina wren, and yellow jessamine with the inscription 'The Palmetto State'",
+    "image_url": "/images/quarters/2000_SC_Proof.png",
+    "release_date":"2000-05-22"
+  },
+  {
+    "id": 9,
+    "year": 2000,
+    "series": "50 State Quarters",
+    "design": "New Hampshire",
+    "mintage": 1169016000,
+    "description": "Old Man of the Mountain rock formation with the inscription 'Live Free or Die'",
+    "image_url": "/images/quarters/2000_NH_Proof.png",
+    "release_date":"2000-08-07"
+  },
+  {
+    "id": 10,
+    "year": 2000,
+    "series": "50 State Quarters",
+    "design": "Virginia",
+    "mintage": 1594616000,
+    "description": "Ships Susan Constant, Godspeed, and Discovery with the inscription 'Jamestown 1607-2007 Quadricentennial'",
+    "image_url": "/images/quarters/2000_VA_Proof.png",
+    "release_date":"2000-10-16"
+  },
+  {
+    "id": 11,
+    "year": 2001,
+    "series": "50 State Quarters",
+    "design": "New York",
+    "mintage": 1275040000,
+    "description": "Statue of Liberty, state outline, and 11 stars with the inscription 'Gateway to Freedom'",
+    "image_url": "/images/quarters/2001_NY_Proof.png",
+    "release_date":"2001-01-02"
+  },
+  {
+    "id": 12,
+    "year": 2001,
+    "series": "50 State Quarters",
+    "design": "North Carolina",
+    "mintage": 1055476000,
+    "description": "Wright Flyer over Wright Brothers Memorial at Kitty Hawk with the inscription 'First Flight'",
+    "image_url": "/images/quarters/2001_NC_Proof.png",
+    "release_date":"2001-03-12"
+  },
+  {
+    "id": 13,
+    "year": 2001,
+    "series": "50 State Quarters",
+    "design": "Rhode Island",
+    "mintage": 870100000,
+    "description": "America's Cup yacht Reliance on Narragansett Bay with the inscription 'The Ocean State'",
+    "image_url": "/images/quarters/2001_RI_Proof.png",
+    "release_date":"2001-05-21"
+  },
+  {
+    "id": 14,
+    "year": 2001,
+    "series": "50 State Quarters",
+    "design": "Vermont",
+    "mintage": 886400000,
+    "description": "Camel's Hump Mountain, maple trees with sap buckets, and the inscription 'Freedom and Unity'",
+    "image_url": "/images/quarters/2001_VT_Proof.png",
+    "release_date":"2001-08-06"
+  },
+  {
+    "id": 15,
+    "year": 2001,
+    "series": "50 State Quarters",
+    "design": "Kentucky",
+    "mintage": 723564000,
+    "description": "Federal Hill mansion, thoroughbred racehorse, and the inscription 'My Old Kentucky Home'",
+    "image_url": "/images/quarters/330px-2001_KY_Proof.png",
+    "release_date":"2001-10-15"
+  },
+  {
+    "id": 16,
+    "year": 2002,
+    "series": "50 State Quarters",
+    "design": "Tennessee",
+    "mintage": 648068000,
+    "description": "Musical instruments, stars, and the inscription 'Musical Heritage'",
+    "image_url": "/images/quarters/330px-2002_TN_Proof.png",
+    "release_date":"2002-01-02"
+  },
+  {
+    "id": 17,
+    "year": 2002,
+    "series": "50 State Quarters",
+    "design": "Ohio",
+    "mintage": 632032000,
+    "description": "Wright Flyer, astronaut, and state outline with the inscription 'Birthplace of Aviation Pioneers'",
+    "image_url": "/images/quarters/2002_OH_Proof.png",
+    "release_date":"2002-03-11"
+  },
+  {
+    "id": 18,
+    "year": 2002,
+    "series": "50 State Quarters",
+    "design": "Louisiana",
+    "mintage": 764204000,
+    "description": "Louisiana Purchase, pelican, and trumpet with musical notes, inscription 'Louisiana Purchase'",
+    "image_url": "/images/quarters/2002_LA_Proof.png",
+    "release_date":"2002-05-20"
+  },
+  {
+    "id": 19,
+    "year": 2002,
+    "series": "50 State Quarters",
+    "design": "Indiana",
+    "mintage": 689800000,
+    "description": "Race car and state outline with the inscription 'Crossroads of America'",
+    "image_url": "/images/quarters/2002_IN_Proof.png",
+    "release_date":"2002-08-02"
+  },
+  {
+    "id": 20,
+    "year": 2002,
+    "series": "50 State Quarters",
+    "design": "Mississippi",
+    "mintage": 594600000,
+    "description": "Two magnolia blossoms with the inscription 'The Magnolia State'",
+    "image_url": "/images/quarters/2002_MS_Proof.png",
+    "release_date":"2002-10-15"
+  },
+  {
+    "id": 21,
+    "year": 2003,
+    "series": "50 State Quarters",
+    "design": "Illinois",
+    "mintage": 463200000,
+    "description": "Young Abraham Lincoln, state outline, farm scene, and Chicago skyline with the inscription 'Land of Lincoln'",
+    "image_url": "/images/quarters/2003_IL_Proof.png",
+    "release_date":"2003-01-02"
+  },
+  {
+    "id": 22,
+    "year": 2003,
+    "series": "50 State Quarters",
+    "design": "Alabama",
+    "mintage": 457400000,
+    "description": "Helen Keller with name in Braille, magnolia blossoms, and longleaf pine branch with the inscription 'Spirit of Courage'",
+    "image_url": "/images/quarters/330px-2003_AL_Proof.png",
+    "release_date":"2003-03-17"
+  },
+  {
+    "id": 23,
+    "year": 2003,
+    "series": "50 State Quarters",
+    "design": "Maine",
+    "mintage": 448800000,
+    "description": "Pemaquid Point Lighthouse and schooner with the inscription 'Vacationland'",
+    "image_url": "/images/quarters/2003_ME_Proof.png",
+    "release_date":"2003-06-02"
+  },
+  {
+    "id": 24,
+    "year": 2003,
+    "series": "50 State Quarters",
+    "design": "Missouri",
+    "mintage": 453200000,
+    "description": "Gateway Arch, Lewis and Clark's boat, and the inscription 'Corps of Discovery 1804-2004'",
+    "image_url": "/images/quarters/330px-2003_MO_Proof.png",
+    "release_date":"2003-08-04"
+  },
+  {
+    "id": 25,
+    "year": 2003,
+    "series": "50 State Quarters",
+    "design": "Arkansas",
+    "mintage": 457800000,
+    "description": "Diamond, rice stalks, mallard duck above a lake with the inscription 'The Natural State'",
+    "image_url": "/images/quarters/2003_AR_Proof.png",
+    "release_date":"2003-10-20"
+  },
+  {
+    "id": 26,
+    "year": 2004,
+    "series": "50 State Quarters",
+    "design": "Michigan",
+    "mintage": 459600000,
+    "description": "Great Lakes system and the inscription 'Great Lakes State'",
+    "image_url": "/images/quarters/2004_MI_Proof.png",
+    "release_date":"2004-01-26"
+  },
+  {
+    "id": 27,
+    "year": 2004,
+    "series": "50 State Quarters",
+    "design": "Florida",
+    "mintage": 481800000,
+    "description": "Spanish galleon, Sabal palms, and space shuttle with the inscription 'Gateway to Discovery'",
+    "image_url": "/images/quarters/2004_FL_Proof.png",
+    "release_date":"2004-03-29"
+  },
+  {
+    "id": 28,
+    "year": 2004,
+    "series": "50 State Quarters",
+    "design": "Texas",
+    "mintage": 541800000,
+    "description": "State outline, star, and rope border with the inscription 'The Lone Star State'",
+    "image_url": "/images/quarters/2004_TX_Proof.png",
+    "release_date":"2004-06-01"
+  },
+  {
+    "id": 29,
+    "year": 2004,
+    "series": "50 State Quarters",
+    "design": "Iowa",
+    "mintage": 465200000,
+    "description": "One-room schoolhouse, teacher and students planting tree, and the inscription 'Grant Wood' and 'Education/Grant Wood'",
+    "image_url": "/images/quarters/2004_IA_Proof.png",
+    "release_date":"2004-08-30"
+  },
+  {
+    "id": 30,
+    "year": 2004,
+    "series": "50 State Quarters",
+    "design": "Wisconsin",
+    "mintage": 453200000,
+    "description": "Head of cheese, ear of corn, and cow with the inscription 'Forward'",
+    "image_url": "/images/quarters/2004_WI_Proof.png",
+    "release_date":"2004-10-25"
+  },
+  {
+    "id": 31,
+    "year": 2005,
+    "series": "50 State Quarters",
+    "design": "California",
+    "mintage": 520400000,
+    "description": "John Muir, Yosemite Valley's Half Dome, and California condor with the inscription 'John Muir' and 'Yosemite Valley'",
+    "image_url": "/images/quarters/2005_CA_Proof.png.webp",
+    "release_date":"2005-01-31"
+  },
+  {
+    "id": 32,
+    "year": 2005,
+    "series": "50 State Quarters",
+    "design": "Minnesota",
+    "mintage": 488600000,
+    "description": "Common loon on a lake, fishing, and state outline with the inscription 'Land of 10,000 Lakes'",
+    "image_url": "/images/quarters/2005_MN_Proof.png",
+    "release_date":"2005-04-04"
+  },
+  {
+    "id": 33,
+    "year": 2005,
+    "series": "50 State Quarters",
+    "design": "Oregon",
+    "mintage": 720200000,
+    "description": "Portion of Crater Lake with the inscription 'Crater Lake'",
+    "image_url": "/images/quarters/2005_OR_Proof.png",
+    "release_date":"2005-06-06"
+  },
+  {
+    "id": 34,
+    "year": 2005,
+    "series": "50 State Quarters",
+    "design": "Kansas",
+    "mintage": 563600000,
+    "description": "American bison and sunflowers with the inscription 'Ad Astra Per Aspera'",
+    "image_url": "/images/quarters/2005_KS_Proof.png",
+    "release_date":"2005-08-29"
+  },
+  {
+    "id": 35,
+    "year": 2005,
+    "series": "50 State Quarters",
+    "design": "West Virginia",
+    "mintage": 721600000,
+    "description": "New River Gorge Bridge with the inscription 'New River Gorge'",
+    "image_url": "/images/quarters/2005_WV_Proof.png",
+    "release_date":"2005-10-14"
+  },
+  {
+    "id": 36,
+    "year": 2006,
+    "series": "50 State Quarters",
+    "design": "Nevada",
+    "mintage": 589800000,
+    "description": "Wild horses, sun rising behind snow-capped mountains, and sagebrush with the inscription 'The Silver State'",
+    "image_url": "/images/quarters/2006_NV_Proof.png",
+    "release_date":"2006-01-31"
+  },
+  {
+    "id": 37,
+    "year": 2006,
+    "series": "50 State Quarters",
+    "design": "Nebraska",
+    "mintage": 594400000,
+    "description": "Chimney Rock with covered wagon and the inscription 'Chimney Rock'",
+    "image_url": "/images/quarters/2006_NE_Proof.png",
+    "release_date":"2006-04-03"
+  },
+  {
+    "id": 38,
+    "year": 2006,
+    "series": "50 State Quarters",
+    "design": "Colorado",
+    "mintage": 569200000,
+    "description": "Rocky Mountain landscape with the inscription 'Colorful Colorado'",
+    "image_url": "/images/quarters/2006_CO_Proof.png",
+    "release_date":"2006-05-14"
+  },
+  {
+    "id": 39,
+    "year": 2006,
+    "series": "50 State Quarters",
+    "design": "North Dakota",
+    "mintage": 664800000,
+    "description": "Two American bison and the inscription 'Peace Garden State'",
+    "image_url": "/images/quarters/2006_ND_Proof.png",
+    "release_date":"2006-08-28"
+  },
+  {
+    "id": 40,
+    "year": 2006,
+    "series": "50 State Quarters",
+    "design": "South Dakota",
+    "mintage": 682400000,
+    "description": "Mount Rushmore, Chinese ring-necked pheasant, and wheat stalks with the inscription 'Great Faces Great Places'",
+    "image_url": "/images/quarters/2006-50-state-quarters-coin-south-dakota-proof-reverse.png",
+    "release_date":"2006-11-06"
+  },
+  {
+    "id": 41,
+    "year": 2007,
+    "series": "50 State Quarters",
+    "design": "Montana",
+    "mintage": 513240000,
+    "description": "Bison skull above the inscription 'Big Sky Country'",
+    "image_url": "/images/quarters/2007_MT_Proof.png",
+    "release_date":"2006-01-29"
+  },
+  {
+    "id": 42,
+    "year": 2007,
+    "series": "50 State Quarters",
+    "design": "Washington",
+    "mintage": 545200000,
+    "description": "Salmon jumping, Mount Rainier, and the inscription 'The Evergreen State'",
+    "image_url": "/images/quarters/2007_WA_Proof.png",
+    "release_date":"2007-04-02"
+  },
+  {
+    "id": 43,
+    "year": 2007,
+    "series": "50 State Quarters",
+    "design": "Idaho",
+    "mintage": 581400000,
+    "description": "Peregrine falcon above state outline and the inscription 'Esto Perpetua'",
+    "image_url": "/images/quarters/2007_ID_Proof_reverse.png",
+    "release_date":"2007-06-04"
+  },
+  {
+    "id": 44,
+    "year": 2007,
+    "series": "50 State Quarters",
+    "design": "Wyoming",
+    "mintage": 564400000,
+    "description": "Bucking horse and rider with the inscription 'The Equality State'",
+    "image_url": "/images/quarters/2007_WY_Proof.png",
+    "release_date":"2007-09-04"
+  },
+  {
+    "id": 45,
+    "year": 2007,
+    "series": "50 State Quarters",
+    "design": "Utah",
+    "mintage": 508200000,
+    "description": "Golden Spike ceremony completing the transcontinental railroad with the inscription 'Crossroads of the West'",
+    "image_url": "/images/quarters/2007_UT_Proof.png",
+    "release_date":"2007-11-05"
+  },
+  {
+    "id": 46,
+    "year": 2008,
+    "series": "50 State Quarters",
+    "design": "Oklahoma",
+    "mintage": 416600000,
+    "description": "Scissor-tailed flycatcher in flight above Indian blanket flowers (state wildflower) with the inscription 'Native America'",
+    "image_url": "/images/quarters/2008_OK_Proof.png",
+    "release_date":"2008-01-28"
+  },
+  {
+    "id": 47,
+    "year": 2008,
+    "series": "50 State Quarters",
+    "design": "New Mexico",
+    "mintage": 488600000,
+    "description": "Zia sun symbol over landscape with the inscription 'Land of Enchantment'",
+    "image_url": "/images/quarters/2008_NM_Proof.png",
+    "release_date":"2008-04-07"
+  },
+  {
+    "id": 48,
+    "year": 2008,
+    "series": "50 State Quarters",
+    "design": "Arizona",
+    "mintage": 463600000,
+    "description": "Grand Canyon with saguaro cactus and banner with the inscription 'Grand Canyon State'",
+    "image_url": "/images/quarters/2008_AZ_Proof.png",
+    "release_date":"2008-06-02"
+  },
+  {
+    "id": 49,
+    "year": 2008,
+    "series": "50 State Quarters",
+    "design": "Alaska",
+    "mintage": 505800000,
+    "description": "Grizzly bear emerging from water with salmon and North Star with the inscription 'The Great Land'",
+    "image_url": "/images/quarters/2008_AK_Proof.png",
+    "release_date":"2008-08-25"
+  },
+  {
+    "id": 50,
+    "year": 2008,
+    "series": "50 State Quarters",
+    "design": "Hawaii",
+    "mintage": 517600000,
+    "description": "King Kamehameha I statue and state motto with the inscription 'Ua Mau ke Ea o ka Aina i ka Pono'",
+    "image_url": "/images/quarters/250px-2008_HI_Proof.png",
+    "release_date":"2008-11-03"
+  },
+  {
+    "id": 51,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "District of Columbia",
+    "mintage": 168000000,
+    "description": "Duke Ellington seated at a piano with the inscription 'Duke Ellington' and 'Justice for All'",
+    "image_url": "/images/quarters/250px-2009_DC_Proof.png",
+    "release_date":"2009-01-26"
+  },
+  {
+    "id": 52,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "Puerto Rico",
+    "mintage": 86400000,
+    "description": "Sentry box, hibiscus flower, and the inscription 'Isla del Encanto'",
+    "image_url": "/images/quarters/2009_PR_Proof.png",
+    "release_date":"2009-03-30"
+  },
+  {
+    "id": 53,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "Guam",
+    "mintage": 83600000,
+    "description": "Outline of the island, flying proa, and latte stone with the inscription 'Guahan I Tanó ManChamorro'",
+    "image_url": "/images/quarters/250px-2009_GU_Proof.png",
+    "release_date":"2009-05-26"
+  },
+  {
+    "id": 54,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "American Samoa",
+    "mintage": 85600000,
+    "description": "Ava bowl, whisk, staff of office, and the inscription 'Fa'a Samoa'",
+    "image_url": "/images/quarters/2009_AS_Proof.png",
+    "release_date":"2009-07-27"
+  },
+  {
+    "id": 55,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "U.S. Virgin Islands",
+    "mintage": 78600000,
+    "description": "Yellow elder, bird of paradise, and bananaquit with the inscription 'United in Pride and Hope'",
+    "image_url": "/images/quarters/2009_USVI_Proof.png",
+    "release_date":"2009-07-27"
+  },
+  {
+    "id": 56,
+    "year": 2009,
+    "series": "District of Columbia and U.S. Territories Quarters",
+    "design": "Northern Mariana Islands",
+    "mintage": 76800000,
+    "description": "Latte stone, two white fairy tern birds, mwar (head lei), and the inscription 'Pågat'",
+    "image_url": "/images/quarters/2009_NMI_Proof.png",
+    "release_date":"2009-11-30"
+  },
+  {
+    "id": 57,
+    "year": 2010,
+    "series": "America the Beautiful Quarters",
+    "design": "Hot Springs National Park",
+    "mintage": 76800000,
+    "description": "Hot Springs National Park in Arkansas - thermal spring fountain and historic bathhouse row",
+    "image_url": "/images/quarters/2010-AR-Proof.png",
+    "release_date":"2010-04-19"
+  },
+  {
+    "id": 58,
+    "year": 2010,
+    "series": "America the Beautiful Quarters",
+    "design": "Yellowstone National Park",
+    "mintage": 73600000,
+    "description": "Yellowstone National Park in Wyoming - Old Faithful geyser with American bison",
+    "image_url": "/images/quarters/250px-2010-WY-Proof.png",
+    "release_date":"2010-06-01"
+  },
+  {
+    "id": 59,
+    "year": 2010,
+    "series": "America the Beautiful Quarters",
+    "design": "Yosemite National Park",
+    "mintage": 124000000,
+    "description": "Yosemite National Park in California - El Capitan rock formation",
+    "image_url": "/images/quarters/250px-2010-CA-Proof.png",
+    "release_date":"2010-07-26"
+  },
+  {
+    "id": 60,
+    "year": 2010,
+    "series": "America the Beautiful Quarters",
+    "design": "Grand Canyon National Park",
+    "mintage": 108800000,
+    "description": "Grand Canyon National Park in Arizona - view of the Colorado River through the canyon",
+    "image_url": "/images/quarters/2010-AZ-Proof.png",
+    "release_date":"2010-09-20"
+  },
+  {
+    "id": 61,
+    "year": 2010,
+    "series": "America the Beautiful Quarters",
+    "design": "Mount Hood National Forest",
+    "mintage": 124800000,
+    "description": "Mount Hood National Forest in Oregon - Mount Hood with Lost Lake in the foreground",
+    "image_url": "/images/quarters/2010-OR-Proof.png",
+    "release_date":"2010-11-15"
+  },
+  {
+    "id": 62,
+    "year": 2011,
+    "series": "America the Beautiful Quarters",
+    "design": "Gettysburg National Military Park",
+    "mintage": 120400000,
+    "description": "Gettysburg National Military Park in Pennsylvania - 72nd Pennsylvania Infantry Monument",
+    "image_url": "/images/quarters/2011-PA-Proof.png",
+    "release_date":"2011-01-24"
+  },
+  {
+    "id": 63,
+    "year": 2011,
+    "series": "America the Beautiful Quarters",
+    "design": "Glacier National Park",
+    "mintage": 120800000,
+    "description": "Glacier National Park in Montana - mountain goat overlooking Hidden Lake",
+    "image_url": "/images/quarters/2011-MT-Proof.png",
+    "release_date":"2011-04-04"
+  },
+  {
+    "id": 64,
+    "year": 2011,
+    "series": "America the Beautiful Quarters",
+    "design": "Olympic National Park",
+    "mintage": 123400000,
+    "description": "Olympic National Park in Washington - Roosevelt elk in forest setting",
+    "image_url": "/images/quarters/2011-WA-Proof.png",
+    "release_date":"2011-06-13"
+  },
+  {
+    "id": 65,
+    "year": 2011,
+    "series": "America the Beautiful Quarters",
+    "design": "Vicksburg National Military Park",
+    "mintage": 129400000,
+    "description": "Vicksburg National Military Park in Mississippi - USS Cairo gunboat",
+    "image_url": "/images/quarters/2011-MS-Proof.png",
+    "release_date":"2011-08-29"
+  },
+  {
+    "id": 66,
+    "year": 2011,
+    "series": "America the Beautiful Quarters",
+    "design": "Chickasaw National Recreation Area",
+    "mintage": 148400000,
+    "description": "Chickasaw National Recreation Area in Oklahoma - Lincoln Bridge over Rock Creek",
+    "image_url": "/images/quarters/2011-OK-Proof.png",
+    "release_date":"2011-11-14"
+  },
+  {
+    "id": 67,
+    "year": 2012,
+    "series": "America the Beautiful Quarters",
+    "design": "El Yunque National Forest",
+    "mintage": 75000000,
+    "description": "El Yunque National Forest in Puerto Rico - Puerto Rican parrot, hibiscus, and bamboo tree",
+    "image_url": "/images/quarters/2012-PR-Proof.png",
+    "release_date":"2012-01-23"
+  },
+  {
+    "id": 68,
+    "year": 2012,
+    "series": "America the Beautiful Quarters",
+    "design": "Chaco Culture National Historical Park",
+    "mintage": 120600000,
+    "description": "Chaco Culture National Historical Park in New Mexico - two elevated kivas and the north wall of Pueblo Bonito",
+    "image_url": "/images/quarters/2012-NM-Proof.png",
+    "release_date":"2012-04-02"
+  },
+  {
+    "id": 69,
+    "year": 2012,
+    "series": "America the Beautiful Quarters",
+    "design": "Acadia National Park",
+    "mintage": 126800000,
+    "description": "Acadia National Park in Maine - Bass Harbor Head Lighthouse",
+    "image_url": "/images/quarters/2012-ME-Proof.png",
+    "release_date":"2012-06-11"
+  },
+  {
+    "id": 70,
+    "year": 2012,
+    "series": "America the Beautiful Quarters",
+    "design": "Hawaii Volcanoes National Park",
+    "mintage": 151800000,
+    "description": "Hawaii Volcanoes National Park in Hawaii - erupting Kilauea volcano",
+    "image_url": "/images/quarters/2012-ATB-Quarters-Proof-Hawaii.png",
+    "release_date":"2012-08-27"
+  },
+  {
+    "id": 71,
+    "year": 2012,
+    "series": "America the Beautiful Quarters",
+    "design": "Denali National Park and Preserve",
+    "mintage": 142400000,
+    "description": "Denali National Park and Preserve in Alaska - Dall sheep with Mount McKinley in the background",
+    "image_url": "/images/quarters/2012-AK-Proof.png",
+    "release_date":"2012-11-05"
+  },
+  {
+    "id": 72,
+    "year": 2013,
+    "series": "America the Beautiful Quarters",
+    "design": "White Mountain National Forest",
+    "mintage": 128200000,
+    "description": "White Mountain National Forest in New Hampshire - Mount Washington",
+    "image_url": "/images/quarters/2013-america-the-beautiful-quarters-coin-white-mountain-new-hampshire-uncirculated-reverse.png",
+    "release_date":"2013-01-28"
+  },
+  {
+    "id": 73,
+    "year": 2013,
+    "series": "America the Beautiful Quarters",
+    "design": "Perry's Victory and International Peace Memorial",
+    "mintage": 149400000,
+    "description": "Perry's Victory and International Peace Memorial in Ohio - view of the memorial",
+    "image_url": "/images/quarters/2013-OH-Proof.png",
+    "release_date":"2013-04-01"
+  },
+  {
+    "id": 74,
+    "year": 2013,
+    "series": "America the Beautiful Quarters",
+    "design": "Great Basin National Park",
+    "mintage": 127400000,
+    "description": "Great Basin National Park in Nevada - Lehman Caves and a Bristlecone pine tree",
+    "image_url": "/images/quarters/2013-NV-Proof.png",
+    "release_date":"2013-04-01"
+  },
+  {
+    "id": 75,
+    "year": 2013,
+    "series": "America the Beautiful Quarters",
+    "design": "Fort McHenry National Monument and Historic Shrine",
+    "mintage": 120600000,
+    "description": "Fort McHenry National Monument and Historic Shrine in Maryland - Fort McHenry and flag with fireworks",
+    "image_url": "/images/quarters/Fort_McHenry_National_Historic_Monument_Quarter.png",
+    "release_date":"2013-08-26"
+  },
+  {
+    "id": 76,
+    "year": 2013,
+    "series": "America the Beautiful Quarters",
+    "design": "Mount Rushmore National Memorial",
+    "mintage": 272400000,
+    "description": "Mount Rushmore National Memorial in South Dakota - view of the memorial with American bison",
+    "image_url": "/images/quarters/2013-Mount-Rushmore-National-Memorial-Quarter.png",
+    "release_date":"2013-11-04"
+  },
+  {
+    "id": 77,
+    "year": 2014,
+    "series": "America the Beautiful Quarters",
+    "design": "Great Smoky Mountains National Park",
+    "mintage": 99400000,
+    "description": "Great Smoky Mountains National Park in Tennessee - log cabin with rail fence",
+    "image_url": "/images/quarters/2014-ATB-Proof-Great-Smoky-Mountains-rev-200.png",
+    "release_date":"2014-01-27"
+  },
+  {
+    "id": 78,
+    "year": 2014,
+    "series": "America the Beautiful Quarters",
+    "design": "Shenandoah National Park",
+    "mintage": 197800000,
+    "description": "Shenandoah National Park in Virginia - hiker on a trail overlooking the valley",
+    "image_url": "/images/quarters/2014-ATB-Proof-Shenandoah-rev-200.png",
+    "release_date":"2014-03-13"
+  },
+  {
+    "id": 79,
+    "year": 2014,
+    "series": "America the Beautiful Quarters",
+    "design": "Arches National Park",
+    "mintage": 251400000,
+    "description": "Arches National Park in Utah - Delicate Arch",
+    "image_url": "/images/quarters/2014-ATB-Proof-Arches-rev-200.png",
+    "release_date":"2014-06-09"
+  },
+  {
+    "id": 80,
+    "year": 2014,
+    "series": "America the Beautiful Quarters",
+    "design": "Great Sand Dunes National Park",
+    "mintage": 171800000,
+    "description": "Great Sand Dunes National Park in Colorado - sand dunes with Sangre de Cristo Mountains",
+    "image_url": "/images/quarters/2014-ATB-Proof-Great-Sand-Dunes-rev-200.png",
+    "release_date":"2014-08-25"
+  },
+  {
+    "id": 81,
+    "year": 2014,
+    "series": "America the Beautiful Quarters",
+    "design": "Everglades National Park",
+    "mintage": 157600000,
+    "description": "Everglades National Park in Florida - anhinga bird, royal palm tree, and sawgrass",
+    "image_url": "/images/quarters/2014-ATB-Proof-Everglades-rev-200.png",
+    "release_date":"2014-11-03"
+  },
+  {
+    "id": 82,
+    "year": 2015,
+    "series": "America the Beautiful Quarters",
+    "design": "Homestead National Monument of America",
+    "mintage": 214400000,
+    "description": "Homestead National Monument of America in Nebraska - hands planting seeds with corn stalks and cabin",
+    "image_url": "/images/quarters/2015-ATB-Proof-Homestead-rev-200.png",
+    "release_date":"2015-02-09"
+  },
+  {
+    "id": 83,
+    "year": 2015,
+    "series": "America the Beautiful Quarters",
+    "design": "Kisatchie National Forest",
+    "mintage": 379600000,
+    "description": "Kisatchie National Forest in Louisiana - wild turkeys and Louisiana longleaf pine",
+    "image_url": "/images/quarters/2015-ATB-Proof-Kisatchie-rev-200.png",
+    "release_date":"2015-04-13"
+  },
+  {
+    "id": 84,
+    "year": 2015,
+    "series": "America the Beautiful Quarters",
+    "design": "Blue Ridge Parkway",
+    "mintage": 505000000,
+    "description": "Blue Ridge Parkway in North Carolina - Rough Ridge overlook with wildflowers",
+    "image_url": "/images/quarters/2015-ATB-Proof-Blue-Ridge-Parkway-rev-200.png",
+    "release_date":"2015-06-08"
+  },
+  {
+    "id": 85,
+    "year": 2015,
+    "series": "America the Beautiful Quarters",
+    "design": "Bombay Hook National Wildlife Refuge",
+    "mintage": 275000000,
+    "description": "Bombay Hook National Wildlife Refuge in Delaware - great blue heron in flight",
+    "image_url": "/images/quarters/2015-ATB-Proof-Bombay-Hook-rev-200.png",
+    "release_date":"2015-09-14"
+  },
+  {
+    "id": 86,
+    "year": 2015,
+    "series": "America the Beautiful Quarters",
+    "design": "Saratoga National Historical Park",
+    "mintage": 215800000,
+    "description": "Saratoga National Historical Park in New York - British General John Burgoyne surrendering his sword",
+    "image_url": "/images/quarters/2015-ATB-Proof-Saratoga-rev-200.png",
+    "release_date":"2015-11-16"
+  },
+  {
+    "id": 87,
+    "year": 2016,
+    "series": "America the Beautiful Quarters",
+    "design": "Shawnee National Forest",
+    "mintage": 155600000,
+    "description": "Shawnee National Forest in Illinois - Camel Rock with natural vegetation",
+    "image_url": "/images/quarters/2016-america-the-beautiful-quarters-coin-shawnee-illinois-proof-reverse.png",
+    "release_date":"2016-02-01"
+  },
+  {
+    "id": 88,
+    "year": 2016,
+    "series": "America the Beautiful Quarters",
+    "design": "Cumberland Gap National Historical Park",
+    "mintage": 215400000,
+    "description": "Cumberland Gap National Historical Park in Kentucky - frontierswoman looking westward through the gap",
+    "image_url": "/images/quarters/2016-america-the-beautiful-quarters-coin-cumberland-gap-kentucky-uncirculated-reverse.png",
+    "release_date":"2016-04-04"
+  },
+  {
+    "id": 89,
+    "year": 2016,
+    "series": "America the Beautiful Quarters",
+    "design": "Harpers Ferry National Historical Park",
+    "mintage": 424000000,
+    "description": "Harpers Ferry National Historical Park in West Virginia - John Brown's Fort with Shenandoah River",
+    "image_url": "/images/quarters/2016-america-the-beautiful-quarters-coin-harpers-ferry-west-virginia-uncirculated-reverse.png",
+    "release_date":"2016-06-06"
+  },
+  {
+    "id": 90,
+    "year": 2016,
+    "series": "America the Beautiful Quarters",
+    "design": "Theodore Roosevelt National Park",
+    "mintage": 231600000,
+    "description": "Theodore Roosevelt National Park in North Dakota - badlands landscape with American bison",
+    "image_url": "/images/quarters/2016-america-the-beautiful-quarters-coin-theodore-roosevelt-north-dakota-uncirculated-reverse.png",
+    "release_date":"2016-08-29"
+  },
+  {
+    "id": 91,
+    "year": 2016,
+    "series": "America the Beautiful Quarters",
+    "design": "Fort Moultrie at Fort Sumter National Monument",
+    "mintage": 142400000,
+    "description": "Fort Moultrie at Fort Sumter National Monument in South Carolina - Sergeant William Jasper raising the fort's flag",
+    "image_url": "/images/quarters/2016-america-the-beautiful-quarters-coin-fort-moultrie-south-carolina-uncirculated-reverse.png",
+    "release_date":"2016-11-14"
+  },
+  {
+    "id": 92,
+    "year": 2017,
+    "series": "America the Beautiful Quarters",
+    "design": "Effigy Mounds National Monument",
+    "mintage": 271200000,
+    "description": "Effigy Mounds National Monument in Iowa - bear effigy mound",
+    "image_url": "/images/quarters/2017-america-the-beautiful-quarters-coin-effigy-mounds-iowa-proof-reverse.png",
+    "release_date":"2017-02-06"
+  },
+  {
+    "id": 93,
+    "year": 2017,
+    "series": "America the Beautiful Quarters",
+    "design": "Frederick Douglass National Historic Site",
+    "mintage": 170400000,
+    "description": "Frederick Douglass National Historic Site in District of Columbia - Frederick Douglass",
+    "image_url": "/images/quarters/2017-america-the-beautiful-quarters-coin-frederick-douglass-district-of-columbia-proof-reverse-768x768.png",
+    "release_date":"2017-04-03"
+  },
+  {
+    "id": 94,
+    "year": 2017,
+    "series": "America the Beautiful Quarters",
+    "design": "Ozark National Scenic Riverways",
+    "mintage": 189800000,
+    "description": "Ozark National Scenic Riverways in Missouri - Current River with Alley Mill",
+    "image_url": "/images/quarters/2017-america-the-beautiful-quarters-coin-ozark-riverways-missouri-proof-reverse-768x768.png",
+    "release_date":"2017-06-05"
+  },
+  {
+    "id": 95,
+    "year": 2017,
+    "series": "America the Beautiful Quarters",
+    "design": "Ellis Island (Statue of Liberty National Monument)",
+    "mintage": 254800000,
+    "description": "Ellis Island (Statue of Liberty National Monument) in New Jersey - immigrants approaching Ellis Island",
+    "image_url": "/images/quarters/2017-america-the-beautiful-quarters-coin-ellis-island-new-jersey-proof-reverse-768x768.png",
+    "release_date":"2017-08-28"
+  },
+  {
+    "id": 96,
+    "year": 2017,
+    "series": "America the Beautiful Quarters",
+    "design": "George Rogers Clark National Historical Park",
+    "mintage": 189000000,
+    "description": "George Rogers Clark National Historical Park in Indiana - George Rogers Clark leading his men through floodwaters",
+    "image_url": "/images/quarters/2017-america-the-beautiful-quarters-coin-george-rogers-clark-indiana-proof-reverse-768x768.png",
+    "release_date":"2017-11-13"
+  },
+  {
+    "id": 97,
+    "year": 2018,
+    "series": "America the Beautiful Quarters",
+    "design": "Pictured Rocks National Lakeshore",
+    "mintage": 172200000,
+    "description": "Pictured Rocks National Lakeshore in Michigan - Chapel Rock and White Pine Tree with Lake Superior",
+    "image_url": "/images/quarters/2018-america-the-beautiful-quarters-coin-pictured-rocks-michigan-uncirculated-reverse-768x768.png",
+    "release_date":"2018-05-02"
+  },
+  {
+    "id": 98,
+    "year": 2018,
+    "series": "America the Beautiful Quarters",
+    "design": "Apostle Islands National Lakeshore",
+    "mintage": 226400000,
+    "description": "Apostle Islands National Lakeshore in Wisconsin - lighthouse and sailboat on Lake Superior",
+    "image_url": "/images/quarters/2018-america-the-beautiful-quarters-coin-apostle-islands-wisconsin-uncirculated-reverse-768x768.png",
+    "release_date":"2018-04-09"
+  },
+  {
+    "id": 99,
+    "year": 2018,
+    "series": "America the Beautiful Quarters",
+    "design": "Voyageurs National Park",
+    "mintage": 238600000,
+    "description": "Voyageurs National Park in Minnesota - common loon, northern lights, and boreal forest",
+    "image_url": "/images/quarters/2018-america-the-beautiful-quarters-coin-voyageurs-minnesota-uncirculated-reverse-768x768.png",
+    "release_date":"2018-06-11"
+  },
+  {
+    "id": 100,
+    "year": 2018,
+    "series": "America the Beautiful Quarters",
+    "design": "Cumberland Island National Seashore",
+    "mintage": 204400000,
+    "description": "Cumberland Island National Seashore in Georgia - loggerhead sea turtle hatchlings",
+    "image_url": "/images/quarters/2018-america-the-beautiful-quarters-coin-cumberland-island-georgia-uncirculated-reverse-768x768.png",
+    "release_date":"2018-08-27"
+  },
+  {
+    "id": 101,
+    "year": 2018,
+    "series": "America the Beautiful Quarters",
+    "design": "Block Island National Wildlife Refuge",
+    "mintage": 275200000,
+    "description": "Block Island National Wildlife Refuge in Rhode Island - Block Island Sound with lighthouse",
+    "image_url": "/images/quarters/2018-america-the-beautiful-quarters-coin-block-island-rhode-island-uncirculated-reverse-768x768.png",
+    "release_date":"2018-11-13"
+  },
+  {
+    "id": 102,
+    "year": 2019,
+    "series": "America the Beautiful Quarters",
+    "design": "Lowell National Historical Park",
+    "mintage": 327600000,
+    "description": "Lowell National Historical Park in Massachusetts - mill worker and textile machinery",
+    "image_url": "/images/quarters/2019-america-the-beautiful-quarters-coin-lowell-massachusetts-uncirculated-reverse-768x768.png",
+    "release_date":"2019-02-04"
+  },
+  {
+    "id": 103,
+    "year": 2019,
+    "series": "America the Beautiful Quarters",
+    "design": "American Memorial Park",
+    "mintage": 265200000,
+    "description": "American Memorial Park in Northern Mariana Islands - indigenous flora and lagoon",
+    "image_url": "/images/quarters/2019-america-the-beautiful-quarters-coin-american-memorial-park-northern-mariana-islands-uncirculated-reverse-768x768.png",
+    "release_date":"2019-04-01"
+  },
+  {
+    "id": 104,
+    "year": 2019,
+    "series": "America the Beautiful Quarters",
+    "design": "War in the Pacific National Historical Park",
+    "mintage": 246400000,
+    "description": "War in the Pacific National Historical Park in Guam - two Chamorro people in a proa",
+    "image_url": "/images/quarters/2019-america-the-beautiful-quarters-coin-war-in-the-pacific-guam-uncirculated-reverse-768x768.png",
+    "release_date":"2019-06-03"
+  },
+  {
+    "id": 105,
+    "year": 2019,
+    "series": "America the Beautiful Quarters",
+    "design": "San Antonio Missions National Historical Park",
+    "mintage": 418200000,
+    "description": "San Antonio Missions National Historical Park in Texas - Mission San José facade",
+    "image_url": "/images/quarters/2019-america-the-beautiful-quarters-coin-san-antonio-missions-texas-uncirculated-reverse-768x768.png",
+    "release_date":"2019-08-26"
+  },
+  {
+    "id": 106,
+    "year": 2019,
+    "series": "America the Beautiful Quarters",
+    "design": "Frank Church River of No Return Wilderness",
+    "mintage": 412400000,
+    "description": "Frank Church River of No Return Wilderness in Idaho - salmon and forest landscape",
+    "image_url": "/images/quarters/2019-america-the-beautiful-quarters-coin-river-of-no-return-wilderness-idaho-uncirculated-reverse-768x768.png",
+    "release_date":"2019-11-04"
+  },
+  {
+    "id": 107,
+    "year": 2020,
+    "series": "America the Beautiful Quarters",
+    "design": "National Park of American Samoa",
+    "mintage": 216800000,
+    "description": "National Park of American Samoa - fruit bats and tropical forest",
+    "image_url": "/images/quarters/2020-america-the-beautiful-quarters-coin-national-park-of-american-samoa-uncirculated-reverse-768x768.png",
+    "release_date":"2020-02-13"
+  },
+  {
+    "id": 108,
+    "year": 2020,
+    "series": "America the Beautiful Quarters",
+    "design": "Weir Farm National Historic Site",
+    "mintage": 216400000,
+    "description": "Weir Farm National Historic Site in Connecticut - artist painting outdoors",
+    "image_url": "/images/quarters/2020-america-the-beautiful-quarters-coin-weir-farm-connecticut-uncirculated-reverse-768x768.png",
+    "release_date":"2020-04-06"
+  },
+  {
+    "id": 109,
+    "year": 2020,
+    "series": "America the Beautiful Quarters",
+    "design": "Salt River Bay National Historical Park and Ecological Preserve",
+    "mintage": 200000000,
+    "description": "Salt River Bay in U.S. Virgin Islands - mangrove forest and kayaker",
+    "image_url": "/images/quarters/2020-america-the-beautiful-quarters-coin-salt-river-bay-us-virgin-islands-uncirculated-reverse-768x768.png",
+    "release_date":"2020-06-01"
+  },
+  {
+    "id": 110,
+    "year": 2020,
+    "series": "America the Beautiful Quarters",
+    "design": "Marsh-Billings-Rockefeller National Historical Park",
+    "mintage": 204600000,
+    "description": "Marsh-Billings-Rockefeller National Historical Park in Vermont - ox-drawn cart and forest",
+    "image_url": "/images/quarters/2020-america-the-beautiful-quarters-coin-marsh-billings-rockefeller-vermont-uncirculated-reverse-768x768.png",
+    "release_date":"2020-08-31"
+  },
+  {
+    "id": 111,
+    "year": 2020,
+    "series": "America the Beautiful Quarters",
+    "design": "Tallgrass Prairie National Preserve",
+    "mintage": 200400000,
+    "description": "Tallgrass Prairie National Preserve in Kansas - bison and prairie landscape",
+    "image_url": "/images/quarters/2020-america-the-beautiful-quarters-coin-tallgrass-prairie-kansas-uncirculated-reverse-768x768.png",
+    "release_date":"2020-11-16"
+  },
+  {
+    "id": 112,
+    "year": 2021,
+    "series": "America the Beautiful Quarters",
+    "design": "Tuskegee Airmen National Historic Site",
+    "mintage": 56000000,
+    "description": "Tuskegee Airmen National Historic Site in Alabama - Tuskegee Airman and training aircraft",
+    "image_url": "/images/quarters/2021_ATB_quarter_AL.png",
+    "release_date":"2021-01-04"
+  },
+  {
+    "id": 113,
+    "year": 2021,
+    "series": "Washington Crossing the Delaware",
+    "design": "Washington Crossing the Delaware",
+    "mintage": 865200000,
+    "description": "General George Washington leading troops across the Delaware River during the American Revolutionary War",
+    "image_url": "/images/quarters/2021-general-george-washington-crossing-the-delaware-quarter-uncirculated-reverse.webp",
+    "release_date":"2021-04-05"
+  },
+  {
+    "id": 114,
+    "year": 2022,
+    "series": "American Women Quarters",
+    "design": "Maya Angelou",
+    "mintage": 314400000,
+    "description": "Maya Angelou - poet and civil rights activist, with bird in flight and rising sun",
+    "image_url": "/images/quarters/American_Women_quarter_2022_Maya_Angelou.png",
+    "release_date":"2021-04-05"
+  },
+  {
+    "id": 115,
+    "year": 2022,
+    "series": "American Women Quarters",
+    "design": "Dr. Sally Ride",
+    "mintage": 300200000,
+    "description": "Dr. Sally Ride - first American woman in space, with space shuttle and Earth",
+    "image_url": "/images/quarters/American_Women_quarter_2022_Sally_Ride.png",
+    "release_date": "2022-03-22"
+  },
+  {
+    "id": 116,
+    "year": 2022,
+    "series": "American Women Quarters",
+    "design": "Wilma Mankiller",
+    "mintage": 300200000,
+    "description": "Wilma Mankiller - first female Cherokee Nation Principal Chief, with Cherokee Rose",
+    "image_url": "/images/quarters/American_Women_quarter_2022_Wilma_Mankiller.png",
+    "release_date": "2022-06-06"
+  },
+  {
+    "id": 117,
+    "year": 2022,
+    "series": "American Women Quarters",
+    "design": "Nina Otero-Warren",
+    "mintage": 300200000,
+    "description": "Nina Otero-Warren - suffragist and educator, with yucca flowers",
+    "image_url": "/images/quarters/American_Women_quarter_2022_Nina_Otero-Warren.png",
+    "release_date": "2022-08-15"
+  },
+  {
+    "id": 118,
+    "year": 2022,
+    "series": "American Women Quarters",
+    "design": "Anna May Wong",
+    "mintage": 300200000,
+    "description": "Anna May Wong - first Chinese American Hollywood movie star, with film strip and lights",
+    "image_url": "/images/quarters/American_Women_Quarter_2022_Anna_May_Wong.png",
+    "release_date": "2022-10-25"
+  },
+  {
+    "id": 119,
+    "year": 2023,
+    "series": "American Women Quarters",
+    "design": "Bessie Coleman",
+    "mintage": 216800000,
+    "description": "Bessie Coleman - first African American and Native American licensed pilot, with biplane",
+    "image_url": "/images/quarters/2023_Bessie_Coleman_Womens_Quarter.png",
+    "release_date": "2023-01-03"
+  },
+  {
+    "id": 120,
+    "year": 2023,
+    "series": "American Women Quarters",
+    "design": "Edith Kanaka'ole",
+    "mintage": 216800000,
+    "description": "Edith Kanaka'ole - Hawaiian composer, chanter, and hula teacher, with lei and musical notes",
+    "image_url": "/images/quarters/2023_Edith_Kanakaʻole_Womens_Quarter.png",
+    "release_date": "2023-03-27"
+  },
+  {
+    "id": 121,
+    "year": 2023,
+    "series": "American Women Quarters",
+    "design": "Eleanor Roosevelt",
+    "mintage": 216800000,
+    "description": "Eleanor Roosevelt - First Lady and human rights advocate, with United Nations emblem",
+    "image_url": "/images/quarters/2023_Eleanor_Roosevelt_Womens_Quarter.png",
+    "release_date": "2023-06-05"
+  },
+  {
+    "id": 122,
+    "year": 2023,
+    "series": "American Women Quarters",
+    "design": "Jovita Idár",
+    "mintage": 216800000,
+    "description": "Jovita Idár - journalist and civil rights activist, with printing press and roses",
+    "image_url": "/images/quarters/2023_Jovita_Idar_Womens_Quarter.png",
+    "release_date": "2023-08-14"
+  },
+  {
+    "id": 123,
+    "year": 2023,
+    "series": "American Women Quarters",
+    "design": "Maria Tallchief",
+    "mintage": 216800000,
+    "description": "Maria Tallchief - prima ballerina, in ballet pose with geometric design",
+    "image_url": "/images/quarters/2023_Maria_Tallchief_Womens_Quarter.png",
+    "release_date": "2023-10-23"
+  },
+  {
+    "id": 124,
+    "year": 2024,
+    "series": "American Women Quarters",
+    "design": "Reverend Dr. Pauli Murray",
+    "mintage": 200000000,
+    "description": "Reverend Dr. Pauli Murray - civil rights pioneer and priest, with scales of justice",
+    "image_url": "/images/quarters/2024_Pauli_Murray_Womens_Quarter.png",
+    "release_date": "2024-02-01"
+  },
+  {
+    "id": 125,
+    "year": 2024,
+    "series": "American Women Quarters",
+    "design": "Patsy Takemoto Mink",
+    "mintage": 200000000,
+    "description": "Patsy Takemoto Mink - first woman of color in Congress, with lei and Capitol dome",
+    "image_url": "/images/quarters/2024_Patsy_Takemoto_Mink_Womens_Quarter.png",
+    "release_date": "2024-03-25"
+  },
+  {
+    "id": 126,
+    "year": 2024,
+    "series": "American Women Quarters",
+    "design": "Dr. Mary Edwards Walker",
+    "mintage": 200000000,
+    "description": "Dr. Mary Edwards Walker - Civil War surgeon and Medal of Honor recipient, with medical symbol",
+    "image_url": "/images/quarters/2024_Mary_Edwards_Walker_Womens_Quarter.png",
+    "release_date": "2024-06-03"
+  },
+  {
+    "id": 127,
+    "year": 2024,
+    "series": "American Women Quarters",
+    "design": "Celia Cruz",
+    "mintage": 200000000,
+    "description": "Celia Cruz - Queen of Salsa, with microphone and musical notes",
+    "image_url": "/images/quarters/2024_Celia_Cruz_Womens_Quarter.png",
+    "release_date": "2024-08-12"
+  },
+  {
+    "id": 128,
+    "year": 2024,
+    "series": "American Women Quarters",
+    "design": "Zitkala-Ša",
+    "mintage": 200000000,
+    "description": "Zitkala-Ša - Native American writer and activist, with traditional designs and sun",
+    "image_url": "/images/quarters/2024_Zitkala-Sa_Womens_Quarter.png",
+    "release_date": "2024-10-21"
+  },
+  {
+    "id": 129,
+    "year": 2025,
+    "series": "American Women Quarters",
+    "design": "Ida B. Wells",
+    "mintage": 200000000,
+    "description": "Ida B. Wells - journalist and civil rights activist (mintage estimated)",
+    "image_url": "/images/quarters/MASTER_AWQIW.webp.png",
+    "release_date": "2024-02-21"
+  },
+  {
+    "id": 130,
+    "year": 2025,
+    "series": "American Women Quarters",
+    "design": "Juliette Gordon Low",
+    "mintage": 200000000,
+    "description": "Juliette Gordon Low - founder of Girl Scouts of the USA (mintage estimated)",
+    "image_url": "/images/quarters/MASTER_AWQJL.webp.png",
+    "release_date": "2024-03-24"
+  },
+  {
+    "id": 131,
+    "year": 2025,
+    "series": "American Women Quarters",
+    "design": "Vera Rubin",
+    "mintage": 200000000,
+    "description": "Vera Rubin - astronomer who discovered dark matter (mintage estimated)",
+    "image_url": "/images/quarters/MASTER_AWQVR.webp.png",
+    "release_date": "2024-06-03"
+  },
+  {
+    "id": 132,
+    "year": 2025,
+    "series": "American Women Quarters",
+    "design": "Stacey Milbern",
+    "mintage": 200000000,
+    "description": "Stacey Milbern - disability rights activist (mintage estimated)",
+    "image_url": "/images/quarters/MASTER_AWQSM.webp.png",
+    "release_date": "2024-08-12"
+  },
+  {
+    "id": 133,
+    "year": 2025,
+    "series": "American Women Quarters",
+    "design": "Althea Gibson",
+    "mintage": 200000000,
+    "description": "Althea Gibson - tennis champion and professional golfer (mintage estimated)",
+    "image_url": "/images/quarters/MASTER_AWQAG.webp.png"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "50 State Quarters",
+    "description": "A series of commemorative quarters honoring each of the 50 U.S. states, released in the order they ratified the Constitution or were admitted to the Union.",
+    "start_year": 1999,
+    "end_year": 2008,
+    "total_coins": 50,
+    "release_pattern": "5 per year",
+    "obverse": "George Washington",
+    "reverse": "State-specific designs"
+  },
+  {
+    "id": 2,
+    "name": "District of Columbia and U.S. Territories Quarters",
+    "description": "Commemorative quarters honoring the District of Columbia and the five U.S. territories: Puerto Rico, Guam, American Samoa, U.S. Virgin Islands, and Northern Mariana Islands.",
+    "start_year": 2009,
+    "end_year": 2009,
+    "total_coins": 6,
+    "release_pattern": "6 in 2009",
+    "obverse": "George Washington",
+    "reverse": "Territory-specific designs"
+  },
+  {
+    "id": 3,
+    "name": "America the Beautiful Quarters",
+    "description": "Also known as National Park Quarters, this series honors national parks and historic sites in each state, D.C., and U.S. territories.",
+    "start_year": 2010,
+    "end_year": 2021,
+    "total_coins": 56,
+    "release_pattern": "5 per year (except 2021 with 1)",
+    "obverse": "George Washington",
+    "reverse": "National park and historic site designs"
+  },
+  {
+    "id": 4,
+    "name": "Washington Crossing the Delaware",
+    "description": "",
+    "start_year": 2021,
+    "end_year": 2021,
+    "total_coins": 1,
+    "release_pattern": "1 per year",
+    "obverse": "George Washington",
+    "reverse": "Washington Crossing the Delaware"
+  },
+  {
+    "id": 5,
+    "name": "American Women Quarters",
+    "description": "A series honoring women and their contributions to American history, running concurrently with American Innovation Quarters.",
+    "start_year": 2022,
+    "end_year": 2025,
+    "total_coins": 20,
+    "release_pattern": "5 per year",
+    "obverse": "George Washington",
+    "reverse": "Designs honoring notable American women"
+  },
+  {
+    "id": 6,
+    "name": "Youth Sports Quarters",
+    "description": "A series promoting youth sports and physical activity, following the American Women Quarters series.",
+    "start_year": 2026,
+    "end_year": 2030,
+    "total_coins": 25,
+    "release_pattern": "5 per year",
+    "obverse": "George Washington",
+    "reverse": "Youth sports-themed designs"
+  }
+]
