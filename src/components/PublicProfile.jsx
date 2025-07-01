@@ -113,7 +113,6 @@ const PublicProfile = () => {
             </div>
             <div>
               <h1 className="text-3xl font-bold text-gray-900 dark:text-white">{user.name}</h1>
-              <p className="text-gray-600 dark:text-gray-400">Coin Collector</p>
               <div className="flex items-center space-x-4 mt-2">
                 <span className="text-sm text-gray-500 dark:text-gray-400">
                   {stats.owned_quarters} coins collected
