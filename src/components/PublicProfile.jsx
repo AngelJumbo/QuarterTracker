@@ -6,7 +6,7 @@ const PublicProfile = () => {
   const [profile, setProfile] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [viewMode, setViewMode] = useState('overview'); // 'overview', 'collection', 'series'
+  const [viewMode, setViewMode] = useState('collection'); // 'collection', 'series'
 
   useEffect(() => {
     fetchProfile();
@@ -130,7 +130,6 @@ const PublicProfile = () => {
         <div className="bg-white dark:bg-gray-800 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700 mb-8">
           <div className="flex border-b border-gray-200 dark:border-gray-700">
             {[
-              { key: 'overview', label: 'Overview' },
               { key: 'collection', label: 'Collection' },
               { key: 'series', label: 'Series Progress' }
             ].map((tab) => (
@@ -148,30 +147,6 @@ const PublicProfile = () => {
             ))}
           </div>
         </div>
-
-        {/* Overview Tab */}
-        {viewMode === 'overview' && (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-            <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700">
-              <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">{stats.owned_quarters}</div>
-              <div className="text-gray-600 dark:text-gray-400">Total Coins</div>
-            </div>
-            <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700">
-              <div className="text-2xl font-bold text-green-600 dark:text-green-400">{stats.series_with_coins}</div>
-              <div className="text-gray-600 dark:text-gray-400">Series Started</div>
-            </div>
-            <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700">
-              <div className="text-2xl font-bold text-purple-600 dark:text-purple-400">{stats.total_series_available}</div>
-              <div className="text-gray-600 dark:text-gray-400">Total Series</div>
-            </div>
-            <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700">
-              <div className="text-2xl font-bold text-orange-600 dark:text-orange-400">
-                {((stats.owned_quarters / stats.total_quarters_available) * 100).toFixed(1)}%
-              </div>
-              <div className="text-gray-600 dark:text-gray-400">Complete</div>
-            </div>
-          </div>
-        )}
 
         {/* Collection Tab */}
         {viewMode === 'collection' && (
