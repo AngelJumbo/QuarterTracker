@@ -18,24 +18,6 @@ export const AuthProvider = ({ children }) => {
     checkAuthStatus();
   }, []);
 
-  const checkAuthStatus = async () => {
-    try {
-      const response = await fetch('/api/auth/me', {
-        credentials: 'include'
-      });
-      
-      if (response.ok) {
-        const data = await response.json();
-        if (data.success) {
-          setUser(data.user);
-        }
-      }
-    } catch (error) {
-      console.error('Error checking auth status:', error);
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const login = () => {
     window.location.href = '/api/auth/google';
@@ -53,6 +35,27 @@ export const AuthProvider = ({ children }) => {
       }
     } catch (error) {
       console.error('Error logging out:', error);
+    }
+  };
+  
+  const checkAuthStatus = async () => {
+    try {
+      const response = await fetch('/api/auth/me', {
+        credentials: 'include'
+      });
+      
+      if (response.ok) {
+        const data = await response.json();
+        if (data.success) {
+          setUser(data.user);
+        }
+        logout();
+      }
+    } catch (error) {
+      console.error('Error checking auth status:', error);
+      logout();
+    } finally {
+      setLoading(false);
     }
   };
 
