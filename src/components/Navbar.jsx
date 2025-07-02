@@ -124,22 +124,28 @@ const Navbar = () => {
       {/* Bottom Navbar (mobile only) */}
       <nav className="sm:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 shadow-inner z-50">
         <div className="flex justify-around items-center h-14">
-          <Link to="/" className={`flex flex-col items-center text-sm ${isActive('/') ? 'text-blue-500' : 'text-gray-500 dark:text-gray-300'}`}>
+          <Link
+            to="/"
+            className={`flex-1 flex flex-col items-center text-sm ${isActive('/') ? 'text-blue-500' : 'text-gray-500 dark:text-gray-300'}`}
+          >
             <FaTh className="text-xl" />
             Dashboard
           </Link>
-          <Link to="/collection" className={`flex flex-col items-center text-sm ${isActive('/collection') ? 'text-blue-500' : 'text-gray-500 dark:text-gray-300'}`}>
+          <Link
+            to="/collection"
+            className={`flex-1 flex flex-col items-center text-sm ${isActive('/collection') ? 'text-blue-500' : 'text-gray-500 dark:text-gray-300'}`}
+          >
             <FaStar className="text-xl" />
             Collection
           </Link>
           <button
             onClick={() => setShowDropdown(!showDropdown)}
-            className="flex flex-col items-center text-sm text-gray-500 dark:text-gray-300"
+            className="flex-1 flex flex-col items-center text-sm text-gray-500 dark:text-gray-300"
           >
             <FaUser className="text-xl" />
             Profile
           </button>
-        </div>
+        </div> 
 
         {/* Dropdown on mobile (floating modal) */}
         {showDropdown && (

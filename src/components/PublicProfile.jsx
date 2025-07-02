@@ -127,7 +127,7 @@ const PublicProfile = () => {
 
         {/* Navigation Tabs */}
         <div className="bg-white dark:bg-gray-800 rounded-xl shadow-sm border border-gray-200 dark:border-gray-700 mb-8">
-          <div className="flex border-b border-gray-200 dark:border-gray-700">
+          <div className="flex justify-between sm:justify-normal border-b border-gray-200 dark:border-gray-700">
             {[
               { key: 'collection', label: 'Collection' },
               { key: 'series', label: 'Series Progress' }
@@ -135,7 +135,7 @@ const PublicProfile = () => {
               <button
                 key={tab.key}
                 onClick={() => setViewMode(tab.key)}
-                className={`px-6 py-4 font-medium text-sm ${
+                className={`px-6 py-4 font-medium text-sm w-full sm:w-auto ${
                   viewMode === tab.key
                     ? 'text-blue-600 dark:text-blue-400 border-b-2 border-blue-600 dark:border-blue-400'
                     : 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300'

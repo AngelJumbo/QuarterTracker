@@ -3,3 +3,4 @@ node_modules/
 **/*.sqlite
 **/*.db
 server/db/coins.db
+dist/
