@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { useRef } from 'react';
 
 const Collection = () => {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -12,7 +13,9 @@ const Collection = () => {
   const [page, setPage] = useState(Number(searchParams.get('page')) || 1);
   const [totalPages, setTotalPages] = useState(1);
   const [availableSeries, setAvailableSeries] = useState([]);
+  const [searchInput, setSearchInput] = useState(searchParams.get('search') || '');
   const limit = 12;
+  const timeoutRef = useRef(null);
 
   useEffect(() => {
     fetchQuarters();
@@ -113,6 +116,7 @@ const Collection = () => {
 
   const clearFilters = () => {
     setSearch('');
+    setSearchInput('');
     setYearFilter('');
     setSeriesFilter('');
     setOwnedFilter('');
@@ -126,6 +130,14 @@ const Collection = () => {
     }
     return years;
   }
+
+  const setSearchDelay = (value) => {
+    setSearchInput(value);
+    clearTimeout(timeoutRef.current);
+    timeoutRef.current = setTimeout(() => {
+      setSearch(value);
+    }, 1000);
+  };
 
   if (loading) {
     return (
@@ -333,8 +345,8 @@ const Collection = () => {
               </label>
               <input
                 type="text"
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
+                value={searchInput}
+                onChange={(e) => setSearchDelay(e.target.value)}
                 placeholder="Search design, series..."
                 className="w-full border border-gray-300 dark:border-gray-600 rounded-md px-3 py-2 bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:ring-blue-500 focus:border-blue-500"
               />

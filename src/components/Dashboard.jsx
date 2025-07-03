@@ -42,6 +42,16 @@ const Dashboard = () => {
     return stats.overall_completion_percentage || 0;
   };
 
+  const getSeriesCompleted = () => {
+    let series_completed = 0;
+    stats.series_breakdown.map((series) => {
+      if(series.completion_percentage==100){
+        series_completed++;
+      }
+    });
+    return series_completed;
+  }
+
   const getShareUrl = () => {
     return `${window.location.origin}/profile/${user.id}`;
   };
@@ -138,7 +148,7 @@ const Dashboard = () => {
                       Series Collected
                     </dt>
                     <dd className="text-lg font-medium text-gray-900 dark:text-white">
-                      {stats?.series_with_coins || 0} / {stats?.total_series_available || 0}
+                      {getSeriesCompleted() || 0} / {stats?.total_series_available || 0}
                     </dd>
                   </dl>
                 </div>
